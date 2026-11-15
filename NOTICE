@@ -1,0 +1,15 @@
+retro8080Software
+Copyright (c) 2026, Dmitry Veremeev (BarabashkaD), https://github.com/BarabashkaD
+
+Contains retro8080Software by Dmitry Veremeev (BarabashkaD), https://github.com/BarabashkaD, BSD-3-Clause and CC BY 4.0. Credit to Dmitry Veremeev (BarabashkaD) must be kept in copies and derived works.
+
+This attribution and these licences cover the owner's files only, not the third-party programs.
+
+The owner's code (tools/) is under BSD-3-Clause (LICENSE, LICENSES/BSD-3-Clause.txt). The owner's docs
+(README.md, AGENTS.md, CHANGELOG.md, the PROVENANCE.md files) are under CC BY 4.0
+(LICENSES/CC-BY-4.0.txt).
+
+Third-party programs keep their own terms, stated per folder in its PROVENANCE.md. They are not
+relicensed by this notice.
+- rk86/collections/pyhonin-1999/ (a 1999 Radio-86RK game tape collection): none stated by the
+  authors; redistributed as found in the public Karabas fork (karabas-go-core-rk86).
